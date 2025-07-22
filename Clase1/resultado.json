@@ -1,0 +1,1 @@
+[{"Linea":"mkdisk -Size=3000 -unit=K -path=/home/user/Disco1.mia","Valida":true,"Mensaje":"Correcta"},{"Linea":"mkdisk -size=4000 -unit=M -path=/home/user/Disco2.mia","Valida":false,"Mensaje":"Sintaxis incorrecta"},{"Linea":"mkdisk -Size=5000 -unit=Z -path=/tmp/test.mia","Valida":false,"Mensaje":"Sintaxis incorrecta"}]

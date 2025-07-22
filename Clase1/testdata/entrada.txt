@@ -1,0 +1,3 @@
+mkdisk -Size=3000 -unit=K -path=/home/user/Disco1.mia
+mkdisk -size=4000 -unit=M -path=/home/user/Disco2.mia
+mkdisk -Size=5000 -unit=Z -path=/tmp/test.mia
